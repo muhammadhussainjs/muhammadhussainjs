@@ -4,9 +4,9 @@
 
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I’m currently learning **react , nodejs , nextjs , expressjs**
+- 🌱 I’m currently learning **react , nodejs , nextjs , expressjs , mongodb**
 
-- 👨‍💻 All of my projects are available at [https://muhammadhussainjs.github.io/portfolio-assignment/](https://muhammadhussainjs.github.io/portfolio-assignment/)
+- 👨‍💻 All of my projects are available at [ https://muhammadhussainjs.github.io/MY-PORTFOLIO/]( https://muhammadhussainjs.github.io/MY-PORTFOLIO/)
 
 - 💬 Ask me about **HTML CSS JAVASCRIPT...**
 
