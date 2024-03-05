@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **react , nodejs , nextjs , expressjs , mongodb**
 
-- 👨‍💻 All of my projects are available at [ https://muhammadhussainjs.github.io/MY-PORTFOLIO/]( https://muhammadhussainjs.github.io/MY-PORTFOLIO/)
+- 👨‍💻 All of my projects are available at [ https://muhammadhussainjs.github.io/MY-PORTFOLIO/]( https://my-new-portfolio-react.vercel.app/)
 
 - 💬 Ask me about **HTML CSS JAVASCRIPT...**
 
