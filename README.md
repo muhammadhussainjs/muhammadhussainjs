@@ -1,4 +1,4 @@
-![logo](https://github.com/muhammadhussainjs/muhammadhussainjs/blob/main/background image mern.png)
+![logo](https://github.com/muhammadhussainjs/muhammadhussainjs/blob/main/backgroundimagemern.png)
 <h1 align="center">Hi 👋, I'm Muhammad Hussain</h1>
 <h3 align="center">A passionate frontend developer from pakistan</h3>
 
